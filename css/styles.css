@@ -973,6 +973,10 @@ mark,
   height: auto;
 }
 
+.modal-body picture.img-fluid img{
+  border-radius: 10px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #666666;
@@ -13493,4 +13497,10 @@ textarea.input {
     display: grid !important;
     grid-template-columns: 1fr;
   }
+}
+
+.StrongCupom{
+  color: #f93;
+    font-size: 2rem;
+    text-align: center;
 }
